@@ -153,7 +153,8 @@ Compare between endpoints:
 
 ## Docker Build
 ```
-# git clone 
+# git clone https://github.com/thanachaiTP/ethspam-versus.git
+# cd ethspam-versus
 # docker build -t ethspam-versus .
 ```
 
